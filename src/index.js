@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './ToDoList';
-import ToDoList from './ToDoList';
-import reportWebVitals from './reportWebVitals';
+import CardList from './app/main/homepage/components/cardlist';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ToDoList />
+    <CardList/>
   </React.StrictMode>
 );
 
 reportWebVitals();
+   
