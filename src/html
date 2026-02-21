@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Todo List</title>
+    <link rel="stylesheet" href="ToDoList.css">
+</head>
+<body>
+
+    <h1>My Todo List</h1>
+    <div id="app"></div>
+
+    <script src="ToDoList.js"></script>
+</body>
+</html>
